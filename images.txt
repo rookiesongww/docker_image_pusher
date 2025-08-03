@@ -9,4 +9,4 @@
 
 # 镜像
 
-apache/seatunnel:2.3.7
+apache/seatunnel
