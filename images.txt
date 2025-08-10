@@ -8,5 +8,4 @@
 
 
 # 镜像
-
-apache/seatunnel
+mcr.microsoft.com/mssql/server:2022-latest
