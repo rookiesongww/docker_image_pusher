@@ -13,5 +13,9 @@
 
 # gitlab/gitlab-runner:latest
 
-bogem/ftp:latest
+# bogem/ftp:latest
+
+apache/doris:build-env-for-2.1
+
+
 
