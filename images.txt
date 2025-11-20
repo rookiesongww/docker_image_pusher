@@ -10,12 +10,15 @@
 # 镜像
 # apache/doris:fe-2.1.9
 # apache/doris:be-2.1.9
-
 # gitlab/gitlab-runner:latest
-
 # bogem/ftp:latest
 
-apache/doris:build-env-for-2.1
+# apache/doris:build-env-for-2.1
+
+minio/minio:latest
+minio/mc:latest
+starrocks/fe-ubuntu:3.5-latest
+starrocks/cn-ubuntu:3.5-latest
 
 
 
