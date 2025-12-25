@@ -21,7 +21,10 @@
 # starrocks/fe-ubuntu:3.5-latest
 # starrocks/cn-ubuntu:3.5-latest
 
-starrocks/allin1-ubuntu
+#starrocks/allin1-ubuntu
+
+seatunnelhub/starrocks-starter:2.2.1
+
 
 
 
